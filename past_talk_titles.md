@@ -2,7 +2,7 @@
 List of all the talks/sessions that happen at GDG Cloud Vancouver
 
 ## 2017
-+ #### Google IO Recap [17-7-2017]
++ #### [Google IO Recap [17-7-2017]](https://www.meetup.com/GDGCloudVancouver/events/240940726/)
     Speaker|Links|
     ---|---|
     [Nishant Srivastava](http://nisrulz.com/)|[Slides](https://speakerdeck.com/nisrulz/o-17-recap-android-kotlin-and-firebase)|
